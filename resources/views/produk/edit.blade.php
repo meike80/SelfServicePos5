@@ -10,7 +10,7 @@
                 <tr>
                     <th>Produk</th>
                     <td>
-                        <input type="text" name="produk" value="{{ $produk->produk }}" required>
+                        <input type="text" name="product" value="{{ $produk->produk }}" required>
                     </td>
                 </tr>
 
